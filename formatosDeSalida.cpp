@@ -6,12 +6,12 @@ int main() {
 
     double numero = 78524.2684;
 
-    cout.precision(5);
+    //cout.precision(5);
 
     cout 
     << numero;
     << endl;
-    
+
     system("pause");
     return 0;
 }
